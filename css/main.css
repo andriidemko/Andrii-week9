@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Overpass|Prosto+One");
+body {
+  font-family: Overpass, sans-serif;
+  background: MediumSpringGreen;
+  background: url("../images/cross-stripes.png"), linear-gradient(90deg, MediumSpringGreen, Cyan);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Prosto One, cursive;
+}
+
+.col {
+  margin: 15px;
+}
+
+h1 {
+  font-size: 200px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
